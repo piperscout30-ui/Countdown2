@@ -1,0 +1,17 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    color:lavender;
+    margin: 0;
+    background-color: midnightblue;
+}
+
+p{
+    background-color: midnightblue;
+    display: inline flex;
+    height: 70px;
+    width: 200px;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+}
